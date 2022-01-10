@@ -1,0 +1,34 @@
+#s-bae9f095-73b9-40a5-95d2-c7d10245313e > #backgroundBox {
+  position: absolute;
+}
+
+#s-bae9f095-73b9-40a5-95d2-c7d10245313e > #alignmentBox {
+  position: relative;
+}
+
+#s-bae9f095-73b9-40a5-95d2-c7d10245313e #s-Mask_1 {
+  position: absolute;
+  width: 1357.0px;
+  height: 2166.471435546875px;
+  -webkit-transform: rotate(0.0deg);
+  -moz-transform: rotate(0.0deg);
+  transform: rotate(0.0deg);
+}
+
+.devMobile #jim-container .ui-page {
+  overflow-x: hidden;
+}
+
+.non_jim_mobile #simulation {
+  overflow-x: hidden;
+}
+
+.web #simulation {
+  overflow-x: hidden;
+}
+
+#s-bae9f095-73b9-40a5-95d2-c7d10245313e > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}
